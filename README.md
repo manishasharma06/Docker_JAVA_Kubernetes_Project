@@ -1,22 +1,22 @@
-# ⚙️ Java App Deployment with Docker & Kubernetes
+# Java App Deployment with Docker & Kubernetes
 
-### 🧩 Overview
+### Overview
 This project demonstrates containerizing a Java-based application and deploying it using Kubernetes. It showcases modern DevOps practices like container orchestration and environment scaling.
 
-### 🚀 Features
+### Features
 - Dockerized Java application
 - Kubernetes deployment with YAML configs
 - Health checks and rolling updates
 - Scalable and fault-tolerant architecture
 
-### 🛠️ Tech Stack
+### Tech Stack
 - Java
 - Docker
 - Kubernetes
 - Spring Boot
 - Maven
 
-### 🧠 What I Learned
+### What I Learned
 - Dockerfile creation and optimization
 - K8s concepts like pods, deployments, services
 - YAML configuration for Kubernetes resources
